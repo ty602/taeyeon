@@ -5,12 +5,6 @@
     /* border: 1px solid red; */
 }
 
-.back{
-    text-align: end;
-    /* border: 1px solid red; */
-
-}
-
 .rec{
     padding-left: 2%;
     font-size: 100%;
@@ -43,4 +37,17 @@
 
     /* border: 1px solid red; */
 
+}
+
+a:link, a:visited {
+    background-color: #7f9bd4;
+    color: rgb(0, 0, 0);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #7f9bd46a;
 }
